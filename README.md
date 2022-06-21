@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @starlight41
 - 👀 I’m interested in gaming, sports, films/series/anime, music, history.
 - 🌱 I’m currently learning programming 
-- 💞️ I’m looking to collaborate on ...?
 - 📫 You can reach me in telegram @starlight41
 
 <!---
