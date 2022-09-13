@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @starlight41
+- 👋 Hi, I’m Serhii
 - 👀 I’m interested in sports, games, films/series, music, history.
 - 🌱 I’m currently learning programming 
 - 📫 You can reach me in telegram @starlight41
