@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Serhii
-- 👀 I’m interested in sports, games, films/series, music, history.
-- 🌱 I’m currently learning programming 
+- 👀 I’m interested in obviously programmin, sports, games, films/series, music, history.
 - 📫 You can reach me in telegram @starlight41
 
 <!---
